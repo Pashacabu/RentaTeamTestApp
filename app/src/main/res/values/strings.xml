@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RentaTeamTestApp</string>
+    <string name="rentateam_about">Тестовое задание для Rentateam</string>
+    <string name="by_str">by Pavel P.</string>
+    <string-array name="tabs">
+        <item>Users List</item>
+        <item>About</item>
+    </string-array>
+</resources>
